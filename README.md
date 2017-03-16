@@ -1,28 +1,8 @@
-gEDA-git-template
-=================
-Template project for hardware design using gEDA and gEDA's PCB 
+high side switches
+==================
 
+a cookbook of high side switch designs drawn in gschem and pcb-rnd
 
-Using the template to start a project
--------------------------------------
-
-Clone the project and skip ahead, or from github you can fork the template, grab
-a copy of the repo and use it as follows: (github, my account 'miloh', and the
-throwaway name 'newproject' are used as examples)
-
-````
-git clone git@github.com:miloh/git-gaf-template.git newproject
-cd newproject
-````
-edit this README.md and the Makefile
-make a commits,
-go to your remote  git server an create newproject. 
-
-````
-git remote rm origin
-git remote add origin URL
-git push -u origin master
-```` 
 
 gEDA Terminology & Description
 ------------------------------
