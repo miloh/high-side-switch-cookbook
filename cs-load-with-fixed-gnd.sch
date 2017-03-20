@@ -73,7 +73,7 @@ C 57200 32100 1 0 0 gnd-1.sym
 C 56000 36500 1 0 0 vcc-1.sym
 T 51600 32500 9 12 1 0 0 0 3
 Precision current source
-Load current is  Il = Vp/Rsense
+Load current Iload = Vp/Rsense
 Load has fixed ground
 C 55500 34800 1 180 1 opamp-1.sym
 {
